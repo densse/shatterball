@@ -16,7 +16,6 @@ else if(!_input.jump)
 {
 	jumpPressed = false
 }
-
 var _bash_pressed = false
 if(_input.bash && bashPressed = false)
 {
