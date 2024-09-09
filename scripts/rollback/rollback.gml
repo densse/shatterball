@@ -1,4 +1,3 @@
-
 rollback_define_player(oPlayer, "Midground");
 	
 rollback_define_input({

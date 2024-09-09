@@ -24,6 +24,7 @@
     {"name":"oPlayerSpawner","order":5,"path":"objects/oPlayerSpawner/oPlayerSpawner.yy",},
     {"name":"oProjectile","order":6,"path":"objects/oProjectile/oProjectile.yy",},
     {"name":"oSolid","order":1,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"ParticleSystem1","order":9,"path":"particles/ParticleSystem1/ParticleSystem1.yy",},
     {"name":"rLevel2","order":1,"path":"rooms/rLevel2/rLevel2.yy",},
     {"name":"rLevel3","order":2,"path":"rooms/rLevel3/rLevel3.yy",},
     {"name":"rLevel4","order":3,"path":"rooms/rLevel4/rLevel4.yy",},

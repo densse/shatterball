@@ -43,6 +43,7 @@
     {"id":{"name":"oPlayerSpawner","path":"objects/oPlayerSpawner/oPlayerSpawner.yy",},},
     {"id":{"name":"oProjectile","path":"objects/oProjectile/oProjectile.yy",},},
     {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},},
+    {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
     {"id":{"name":"rLevel1","path":"rooms/rLevel1/rLevel1.yy",},},
     {"id":{"name":"rLevel2","path":"rooms/rLevel2/rLevel2.yy",},},
     {"id":{"name":"rLevel3","path":"rooms/rLevel3/rLevel3.yy",},},
